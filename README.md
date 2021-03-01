@@ -48,3 +48,5 @@ I'm Dale, an emmy winning TV broadcast and production veteran in the midst of a 
       <td align="center" width="20%">
     <img src="https://user-images.githubusercontent.com/74573261/109550664-9567e400-7a9d-11eb-903b-8b85df405070.png" />
       </td> 
+      </tbody>
+</table>
