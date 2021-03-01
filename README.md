@@ -10,7 +10,7 @@ I'm Dale, an emmy winning TV broadcast and production veteran in the midst of a 
 [<img width="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif">](https://www.linkedin.com/in/dale-jacobs/)
 [<img width="50px" src="https://user-images.githubusercontent.com/74573261/109553318-e2998500-7aa0-11eb-9632-1d1dc7c19d4e.gif">](mailto:dalejohn33@gmail.com)
 
-##### What I've Learned
+#### What I've Learned
 <table>
 <tbody>
  <tr>
