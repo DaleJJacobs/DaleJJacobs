@@ -12,7 +12,6 @@ I'm Dale, an emmy winning TV broadcast and production veteran in the midst of a 
 #### What I've Learned
 <table>
 <tbody>
- <tr>
 <td  width="20%">
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 </td>
