@@ -10,12 +10,12 @@ I'm Dale, an emmy winning TV broadcast and production veteran in the midst of a 
 [<img width="50px" src="https://user-images.githubusercontent.com/74573261/109553318-e2998500-7aa0-11eb-9632-1d1dc7c19d4e.gif">](mailto:dalejohn33@gmail.com)
 
 #### What I've Learned
+
 <table>
-<tbody>
-<td  width="20%">
+  <tbody>
+    <td width="20%">
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
-</td>
-  
+    </td>
 <td width="20%">
 <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
   </td>
@@ -32,17 +32,14 @@ I'm Dale, an emmy winning TV broadcast and production veteran in the midst of a 
 </table>
 <table>
   <tbody>
-    <td  width="20%">
+    <td  width="25%">
       <img src="https://user-images.githubusercontent.com/74573261/109549529-158d4a00-7a9c-11eb-8329-9634b3284712.png" />
     </td>
-    <td  width="20%">
+    <td  width="25%">
     <img src="https://user-images.githubusercontent.com/74573261/109550205-f5aa5600-7a9c-11eb-908d-03059cf59e52.png" />
       </td>
      </td>
-    <td  width="20%">
-    <img src="https://user-images.githubusercontent.com/74573261/109550471-546fcf80-7a9d-11eb-8e89-3df886f88a79.png" />
-      </td>
-      <td  width="20%">
+      <td  width="25%">
     <img src="https://user-images.githubusercontent.com/74573261/109550664-9567e400-7a9d-11eb-903b-8b85df405070.png" />
       </td> 
       </tbody>
