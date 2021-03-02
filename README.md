@@ -1,7 +1,5 @@
-
+<img align="left" src="https://user-images.githubusercontent.com/74573261/109544626-cba16580-7a95-11eb-82a6-786b61a71444.gif" width="400px">
 Hi All!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-<img align="right" src="https://user-images.githubusercontent.com/74573261/109544626-cba16580-7a95-11eb-82a6-786b61a71444.gif" width="400px">
 
 I'm Dale, an emmy winning TV broadcast and production veteran in the midst of a career transition, having just completed the Full-Stack Web Development Boot Camp at the Univeristy of Pennsylvania!  As of this writing I am updating my professional materials to exhibit my newly gained skills and obtain a position in the world of development.
 
