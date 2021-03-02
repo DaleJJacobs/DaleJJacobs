@@ -28,7 +28,7 @@ I'm Dale, an emmy winning TV broadcast and production veteran in the midst of a 
   </td>
 </tbody>
 </table>
-<table>
+<table align="right">
   <tbody>
     <td  width="20%">
       <img src="https://user-images.githubusercontent.com/74573261/109549529-158d4a00-7a9c-11eb-8329-9634b3284712.png" />
